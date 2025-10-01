@@ -72,26 +72,13 @@
 
 ---
 
-## 🐍 Contribution Snake Animation
 
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shubhranshussp/shubhranshussp/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/shubhranshussp/shubhranshussp/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/shubhranshussp/shubhranshussp/output/github-contribution-grid-snake.svg">
-</picture>
-
-</div>
-
----
 
 
 ## 📫 Let's Connect!
 
 <div align="center">
 
-**Open to collaborations, freelance projects, and SDE opportunities!**
 
 I'm actively looking for:
 - 💻 Web Development Projects & Collaborations
