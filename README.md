@@ -9,8 +9,7 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-00D9FF?style=for-the-badge&logo=About.me&logoColor=white)](https://bento.me/shubhranshussp)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shubhranshusudeepta2003@gmail.com)
 
-<img src="https://komarev.com/ghpvc/?username=shubhranshussp&label=Profile%20views&color=blueviolet&style=flat" alt="profile views" />
-
+<img src="https://komarev.com/ghpvc/?username=shubhranshussp&page_id=1&label=Profile%20views&color=blueviolet&style=flat" alt="profile views" />
 </div>
 
 ---
