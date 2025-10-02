@@ -1,6 +1,6 @@
 <div align="center">
   
-# 👨‍💻 Shubhranshu Sudeepta Panda
+#  Shubhranshu Sudeepta Panda
 
 ### Final Year CSE Student | Full Stack Developer | Problem Solver
 
@@ -13,12 +13,12 @@
 
 ---
 
-## 🚀 About Me
+##  About Me
 
-- 🎓 Final Year B.Tech CSE Student @ **VIT AP University**
-- 🔭 Currently building **scalable full-stack applications** 
-- 🌱 Mastering **Data Structures, Algorithms & System Design**
-- 💡 Passionate about **clean code, problem-solving & continuous learning**
+-  Final Year B.Tech CSE Student @ **VIT AP University**
+-  Currently building **scalable full-stack applications** 
+-  Mastering **Data Structures, Algorithms & System Design**
+-  Passionate about **clean code, problem-solving & continuous learning**
 
 ---
 
@@ -73,12 +73,9 @@
 ---
 
 
-
-
 ## 📫 Let's Connect!
 
 <div align="center">
-
 
 I'm actively looking for:
 - 💻 Web Development Projects & Collaborations
